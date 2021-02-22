@@ -4,7 +4,7 @@ Hey! I'm George, a  simple student from Iași, Romania. I like to spend my time 
 
 # How to reach me
 <a href="https://www.instagram.com/george_programatorul/">
-  <img src="https://i.postimg.cc/gJVTDCJM/Instagram.png" width="auto" heigth="50px" />
+  <img src="https://i.postimg.cc/gJVTDCJM/Instagram.png" width = "auto" heigth = "50px" />
 </a>
 
 # Some cool stats
