@@ -1,6 +1,6 @@
 # About me
 
-Hey! I'm George, a  simple student from Iași, Romania. I like to spend my time reading books, watching movies and listening to music. I'm alsa passionate about cryptocurrencies, blockchain and stocks.
+Hey! I'm George, a  simple student from Iași, Romania. I like to spend my time reading books, watching movies and listening to music. I'm also passionate about cryptocurrencies, blockchain and stocks.
 
 # Some cool stats
 
